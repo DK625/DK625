@@ -1,7 +1,27 @@
 <a href="#" target="_blank">
   <img src="svg/DK625.svg" width="1200" alt="DK625-official" />
 </a>
+<h1 align="center">Hi 👋, I'm Trinh Duc Hoang</h1>
+<h3 align="center">A passionate fullstack developer from Viet Nam</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=DK625&label=Profile%20views&color=0e75b6&style=flat" alt="DK625" /> </p>
 
+- 🔭 I’m currently working on [VCCorp](https://vccorp.vn/)
+
+- 🌱 I’m currently learning **Backend**
+
+- 👯 I’m looking to collaborate on [Telegram](https://t.me/hoangtd625)
+
+- 🤝 I am looking for a study partner to progress together in university.
+
+- 👨‍💻 All of my projects are available at [ REPOSITORIES](https://github.com/DK625?tab=repositories)
+
+- 📝 I regularly write articles on [Notion](https://www.notion.so/Personal-Home-7083e7a1ba56493e9bb147545d76f606?showMoveTo=true&saveParent=true)
+
+- 💬 Ask me about **something** you need
+
+- 📫 How to reach me **mailto: minhha10c8@gmail.com**
+
+- 📄 Know about my experiences **"Study hard, play hard"**
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
 <br>
 <!-- https://simpleicons.org/ -->
@@ -84,27 +104,6 @@
   </a>
 </div>
 
-<!-- <br>
-
-<h2 align="center">📖 My MERN Stack Advanced Course 📖</h2>
-<br>
-<p>
-  <a href="https://youtu.be/63opfUkPq6k" target="_blank">
-    <strong>☕ Học lập trình MERN Stack Nâng Cao (NodeJS, ReactJS, ExpressJS, MongoDB)</strong>
-  </a>
-</p>
-<p><strong>☕ Đây là một khóa học mà mình đã làm cực kỳ tâm huyết, với phong cách dạy lập trình làm dự án thực tế, chuyên nghiệp. Để các bạn có một hành trang kiến thức vững chắc cho hành trình sự nghiệp làm lập trình viên trong tương lai nhé.</strong></p>
-<p><strong>☕ Vì mỗi lần mở lớp online dạy trực tiếp này mình chỉ nhận số lượng rất ít bạn để đảm bảo chất lượng học, nên là các bạn quan tâm thì cứ thoải mái liên hệ với mình sớm để đăng ký giữ chỗ cho những lớp tiếp theo nha!</strong></p>
-<p>
-  <strong>🔗 Link giới thiệu chi tiết: <a href="https://youtu.be/63opfUkPq6k" target="_blank">Lập Trình MERN Stack Nâng Cao - Học Thực Tế Để Đi Làm</a></strong>
-  <br>
-  <strong>🔗 Liên hệ với mình tại Facebook: <a href="https://www.facebook.com/trungquandev" target="_blank">https://www.facebook.com/trungquandev</a></strong>
-  <br>
-  <strong>📧 Hoặc Email: <a href="mailto:trungquandev.official@gmail.com" target="_top">trungquandev.official@gmail.com</a></strong>
-</p>
-<a href="https://youtu.be/63opfUkPq6k" target="_blank">
-  <img src="images/fair-mern-stack-advanced-banner-trungquandev-scaled.jpeg" width="1200" alt="trungquandev-official" />
-</a> -->
 
 <br>
 <h2 align="center">📑 My Favorites Quote 📑</h2>
