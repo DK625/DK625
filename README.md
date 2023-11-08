@@ -77,6 +77,7 @@
 
 <h2 align="center">📖 A few things about me 📖</h2>
 <br>
+<div align="center">
 <p>
   <a href="https://github.com/DK625" target="_blank">
     <strong>☕ Accept work related to the web (Front-end and Back-end)</strong>
@@ -91,7 +92,7 @@
   <br>
   <strong>📧 Or Email: <a href="mailto:minhha10c8@gmail.com" target="_top">minhha10c8@gmail.com</a></strong>
 </p>
-
+</div>
 <br>
 <a href="#" target="_blank">
   <img src="svg/DK625.svg" width="1200" alt="DK625-official" />
