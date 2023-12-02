@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Trinh Duc Hoang</h1>
 <h3 align="center">A passionate fullstack developer from Viet Nam</h3>
 <img align = "right" alt="Coding" width="400" src = "https://media1.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=DK625&base=1000&label=Profile%20views&color=0e75b6&style=flat" alt="DK625" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=DK625&base=10000&label=Profile%20views&color=0e75b6&style=flat" alt="DK625" /> </p>
 <!-- add base number -->
 <!-- animated coding gif -->
 
@@ -46,7 +46,7 @@
     <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DK625&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
   </a>
   <a href="#" title="DK625">
-    <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=DK625&show_icons=true&theme=tokyonight&border_color=61dafb&hide_border=true" />
+    <!-- <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=DK625&show_icons=true&theme=tokyonight&border_color=61dafb&hide_border=true" /> -->
   </a>
 </div>
 
